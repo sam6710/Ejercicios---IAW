@@ -26,14 +26,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=s, initial-scale=1.0">
-    <title>Esternocleidomastoideo</title>
+    <title>EjercicioGeneroColor</title>
 </head>
 <body>
-    <h1>Meta-Array</h1>
-    <?php
-        //Pretty var_dump
-        echo ('<pre>' . var_export($alumnos, true) . '</pre>');
-    ?>
     <!-- Si el género es masculino fila en verde y si es femenino en azul -->
     <table border="1">
         <thead>
